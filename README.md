@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/exiledevermore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="exiledevermore" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/anweasha-saha-a8491b1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anweasha saha" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/anweasha-saha-a8491b1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anweasha saha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100010834569662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anweasha saha" height="30" width="40" /></a>
 <a href="https://instagram.com/anweasha__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anweasha__" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCSHGrNqOZg0iyGHBXUFUbSQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anweasha saha" height="30" width="40" /></a>
